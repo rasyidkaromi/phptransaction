@@ -11,7 +11,7 @@ How to use
 
 Test penggunaan dan contoh klien script 
 
-    git clone https://github.com/rasyidkaromi/php-klien
+    git clone https://github.com/rasyidkaromi/phptransaction
 
     setup config.php
     -- setting database
